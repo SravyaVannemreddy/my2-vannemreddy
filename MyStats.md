@@ -27,4 +27,26 @@ Here i would like to give a table representation of few sports that would be rec
 >
 > -- *Plato*
 
+# Code fencing of code snippet
 
+> "How to get the first image from post?"
+>
+>[Quick link to the article of getting first image from post in wordpress](https://stackoverflow.com/questions/21975301/how-to-get-the-first-image-from-post)
+
+```
+function catch_that_image() {
+  global $post, $posts;
+  $first_img = '';
+  ob_start();
+  ob_end_clean();
+  $output = preg_match_all('/<img.+?src=[\'"]([^\'"]+)[\'"].*?>/i', $post->post_content, $matches);
+  $first_img = $matches[1][0];
+
+  if(empty($first_img)) {
+    $first_img = "/path/to/default.png";
+  }
+  return $first_img;
+}
+```
+
+[Code snippet url to get first image from wordpress](https://css-tricks.com/snippets/wordpress/get-the-first-image-from-a-post/)
