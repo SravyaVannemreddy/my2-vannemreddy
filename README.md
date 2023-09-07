@@ -9,3 +9,9 @@ the reason why i like this spot is it is totally **covered with snow** and it **
 2. Enjoying immense glaciers
 3. Swimming in the ocean
 4. Northen lights is sight seeing
+
+# Unordered list of food dishes 
+
+- Chicken fry with butter nons
+- Sussat with cheese
+- Fish fries with extras spicy
