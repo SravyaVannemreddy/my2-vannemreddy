@@ -15,3 +15,5 @@ the reason why i like this spot is it is totally **covered with snow** and it **
 - Chicken fry with butter nons
 - Sussat with cheese
 - Fish fries with extras spicy
+
+![Mystats linked to Readme](./MyStats.md)
