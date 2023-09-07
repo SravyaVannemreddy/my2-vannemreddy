@@ -17,3 +17,4 @@ the reason why i like this spot is it is totally **covered with snow** and it **
 - Fish fries with extras spicy
 
 ![Mystats linked to Readme](./MyStats.md)
+
