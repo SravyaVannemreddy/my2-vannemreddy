@@ -15,3 +15,16 @@ Here i would like to give a table representation of few sports that would be rec
 |Chess         | It is a mind game which improves our thinking level           | 3 hours   |
 |Basket ball   | It helps in the mind balance and burn calories                | 2 hours   |
 |Carromboard   | Quick thinking and sharpens the mind and better predictions   | 3 hours   |
+
+# Pithy quotes of few scientists that i like
+
+> "And yet it moves" or " Although it does move"
+>
+> -- *Galileo*
+
+ 
+> "I've loved the stars too fondly to be fearful of the light"
+>
+> -- *Plato*
+
+
